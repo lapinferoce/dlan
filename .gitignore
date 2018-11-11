@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+dlan.so
+dlan.dylib
+dlan.dll
+dlan.a
+dlan.lib
+dlan-test-*
+*.exe
+*.o
+*.obj
+*.lst

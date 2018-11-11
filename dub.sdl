@@ -1,0 +1,8 @@
+name "dlan"
+description "A simple vibe.d server application."
+authors "lapinferoce"
+copyright "Copyright © 2018, lapinferoce"
+license "gpl"
+dependency "vibe-d" version="~>0.8.2"
+dependency "vibe-d:tls" version="~>0.8.2"
+subConfiguration "vibe-d:tls" "openssl-1.1"
